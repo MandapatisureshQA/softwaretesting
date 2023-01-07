@@ -249,6 +249,7 @@ a{
 }
 .sidebar-container .close-button {
     width: 25px;
+    padding-right: 20px;
 }
 .sidebar-container .side-header {
     width: 100%;
