@@ -245,11 +245,11 @@ a{
 }
 
 .sidebar-container .logo-section img{
-    width: 40px;
+    width: 60px;
 }
 .sidebar-container .close-button {
-    width: 25px;
-    padding-right: 20px;
+    width: 40px;
+    padding-right: 10px;
 }
 .sidebar-container .side-header {
     width: 100%;
